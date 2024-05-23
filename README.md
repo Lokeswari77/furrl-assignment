@@ -13,16 +13,16 @@ Displays a loading spinner while data is being fetched.
 
 Technical Requirements
 --------------------------------
-Framework: React.js
-
-APIs: Utilize Furrl's production API for fetching products.
+React: JavaScript library for building user interfaces.
+CSS: Styling for the components.
+Fetch API: For making HTTP requests to the external API.
+React Hooks: For managing state and side effects.
 
 Getting Started
 -------------------------------------
 Prerequisites
 
-Node.js (v20.12.2 or later) and
-npm (v6.14.4 or later)
+Node.js (v20.12.2 or later) and npm (v6.14.4 or later)
 
 Installation
 ----------------
@@ -32,9 +32,11 @@ git clone https://github.com/Lokeswari77/furrl-assignment
 
 cd furrl-assignment
 
+
 Install dependencies:
 
 npm install
+
 
 Running the Application
 
