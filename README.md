@@ -57,3 +57,7 @@ CategoryFilters.js: Component for displaying category filters.
 ProductList.js: Component for displaying individual product details.
 
 Loader.js: Component for displaying a loading spinner.
+
+Live Demo of the Project
+--------------------------------
+https://loki-furrl-assignment.onrender.com/
