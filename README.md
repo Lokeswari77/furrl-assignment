@@ -28,7 +28,7 @@ Installation
 ----------------
 Clone the repository:
 
-git clone https://github.com/Lokeswari77/furrl-assignment
+git clone https://github.com/Lokeswari77/furrl-assignment.git
 
 cd furrl-assignment
 
