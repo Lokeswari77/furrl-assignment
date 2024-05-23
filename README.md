@@ -5,19 +5,11 @@ Overview
 This project involves rebuilding the HomeHunts page from Furrl's mobile website using React. The page includes a top navigation bar, a product list with infinite scrolling, and clickable product items that redirect to their respective detail pages. The share button opens a generic share component with the product detail page link.
 
 Features
------------------------------------------------------------
-Top Navigation Bar
-
-Wishlist button redirects to Furrl Wishlist.
-
-Cart button redirects to Furrl Cart.
-
-Product List
-Infinite scrolling: Initial products load on page load, and more products load as the user scrolls.
-
-Clickable products: Redirect to the corresponding product details page.
-
-Share button: Opens a generic share component with the product detail page link.
+----------------------------------------------
+Fetches and displays products from an external API.
+Allows users to filter products based on categories.
+Implements infinite scrolling to load more products.
+Displays a loading spinner while data is being fetched.
 
 Technical Requirements
 --------------------------------
