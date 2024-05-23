@@ -42,7 +42,11 @@ npm start
 Main Components
 -----------------------------------
 Home.js: Contains the main logic for fetching and displaying products and filters.
+
 Navbar.js: Navigation bar component.
+
 CategoryFilters.js: Component for displaying category filters.
+
 ProductList.js: Component for displaying individual product details.
+
 Loader.js: Component for displaying a loading spinner.
