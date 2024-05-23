@@ -7,12 +7,16 @@ This project involves rebuilding the HomeHunts page from Furrl's mobile website 
 Features
 -----------------------------------------------------------
 Top Navigation Bar
+
 Wishlist button redirects to Furrl Wishlist.
+
 Cart button redirects to Furrl Cart.
 
 Product List
 Infinite scrolling: Initial products load on page load, and more products load as the user scrolls.
+
 Clickable products: Redirect to the corresponding product details page.
+
 Share button: Opens a generic share component with the product detail page link.
 
 Technical Requirements
